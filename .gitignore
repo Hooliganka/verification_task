@@ -1,0 +1,10 @@
+__pycache__
+venv*
+.idea
+*.pem
+local.py
+*.cert
+*.pid
+.sass-cache
+media
+db.sqlite3

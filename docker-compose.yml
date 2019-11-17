@@ -1,0 +1,12 @@
+version: "3"
+services:
+  server:
+    build: server/
+    command: python /app/src/manage.py runserver 0.0.0.0:8080
+    ports:
+      - "8080:8080"
+  client:
+    build: client/
+    command: npm start
+    ports:
+      - "3000:3000"

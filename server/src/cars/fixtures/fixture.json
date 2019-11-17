@@ -1,0 +1,15 @@
+[
+  {
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+      "owner": 1,
+      "user": null,
+      "year": 2006,
+      "name": "\u0410\u0443\u0434\u0438 \u04104",
+      "name_ru": "\u0410\u0443\u0434\u0438 \u04104",
+      "name_en": "Audi A4",
+      "date": "2019-11-15T21:47:45.070Z"
+    }
+  }
+]

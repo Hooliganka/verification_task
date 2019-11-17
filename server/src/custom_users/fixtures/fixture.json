@@ -1,0 +1,19 @@
+[
+  {
+    "model": "custom_users.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$150000$yMLrJbeBfORw$s4zeeAXdHwLA53RBUF83N6tM9uQHj5tSko0GxTCvogM=",
+      "last_login": "2019-11-15T21:51:37.699Z",
+      "is_superuser": true,
+      "email": "admin@site.su",
+      "language": "ru",
+      "first_name": "admin",
+      "is_active": true,
+      "is_staff": true,
+      "date_joined": "2019-11-15T21:46:27.993Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]

@@ -1,0 +1,7 @@
+.gitignore
+Makefile
+Dockerfile
+.dockerignore
+venv
+mydatabase
+db.sqlite3
