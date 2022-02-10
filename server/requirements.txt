@@ -1,5 +1,5 @@
 djangorestframework==3.10.3
-django==2.2.7
+django==2.2.27
 djangorestframework-jwt==1.11.0
 django-modeltranslation==0.14
 six==1.13.0
